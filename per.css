@@ -1,0 +1,121 @@
+.logo{
+    position:left;
+    width: 200px;
+}
+h4 {
+    text-align: center;
+    font-family: 'Rowdies', cursive ;
+}
+.info ul, li{
+    display:inline-flex;
+    margin:0 auto;
+    padding-left: 150px;
+    text-align: center;
+}
+.text{
+   font-family: 'Rowdies', cursive;
+   line-height : 25px;
+   padding: 20px 400px;
+   width: 600px;
+}
+.exorcismogif{
+    position: relative;
+    width: 680px;
+    animation-name: parpadeo;
+    animation-duration: 4s;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+}
+  @keyframes parpadeo {  
+    0% { opacity: 1.0; }
+     50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+  }
+div.cajaExorcistas{
+    color:white;
+    border: 20px solid tomato;
+    width: 600px;
+    margin: 0px;
+    padding:20px;
+    background-image: url(exorcista-2035739.jpg);
+    background-size: cover;
+    background-position-x:center;
+    outline-color: yellow;
+    outline-style: inset;
+}
+div.cajaExorcistas{
+    background-image: url(exorcista-2035739.jpg);
+    background-size: cover;
+    background-position-x:center;  
+}
+h1, h2{
+    text-align: center;
+    line-height: 40px;
+    width: 600px;
+    padding-left: 1cm;
+}
+h1{
+    text-transform: uppercase;
+}
+.Monoimg {
+    position: relative;
+    width: 680px;
+}
+.Cajamonos{
+    color:white;
+    border: 20px solid rgb(71, 105, 255);
+    width: 600px;
+    margin: 0px;
+    padding:20px;
+    background-image: url(gifmono.gif);
+    background-size: cover;
+    background-position-x:center;
+    outline-color: rgb(60, 255, 0);
+    outline-style: inset;
+    display: inline-flex;
+}
+.Cajaniños{
+    color: white;
+    border: 20px solid rgb(255, 71, 178);
+    width: 600px;
+    margin: 0px;
+    padding:20px;
+    background-image: url(gif\ nieve.gif);
+    background-size: cover;
+    background-position-x:center;
+    outline-color: rgb(255, 0, 85);
+}
+hr{
+    border-radius: 5cm;
+    border-color: tomato;
+    padding-right: 0%;
+}
+.Planta{
+    width:100%;
+    position: center;
+    display: inline-flex;
+}
+.Plantaimagen{
+    width: 250px;
+    height:100%;
+    display:inline-flex;
+}
+.columna1{
+    display:inline-flex;
+    padding:18px;
+}
+.columna2{
+    padding: 10px;
+    margin:0 auto;
+}
+  .Cajacaca{
+    color: white;
+    border: 20px solid rgb(92, 255, 71);
+    width: 600px;
+    margin: 0px;
+    padding:20px;
+    background-image: url(popaux.webp);
+    background-size: cover;
+    background-position-x:center;
+    outline-color: rgb(255, 0, 85);
+}

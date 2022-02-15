@@ -1,0 +1,43 @@
+img{
+  width: 150px;
+  height: 150px;
+}
+div {
+  padding-left: 50px;
+}
+div.buenos{
+  animation-name: buenos ;
+  animation-duration: 5s;
+  position: relative;
+}
+@keyframes buenos{
+  0%   {left:0px;}
+  100%  {left: 600px;px;}
+}
+div.inanimados {
+  animation-name: inanimados ;
+  animation-duration: 5s;
+  position: relative;
+}
+@keyframes inanimados{
+  0% {transform: rotate(315deg);}
+  100%{transform: rotate(360deg);}
+}
+.bruja{
+  transition: 1s
+}
+.bruja:hover{
+  transform: skew(20deg, 10deg);
+}
+.dragon {
+ transition: 1s;
+}
+.dragon :hover{
+  transform: scale(2)
+}
+.nomo{
+  transition: 5s;
+}
+.nomo:hover{
+  transform: rotate(360deg);
+}

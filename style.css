@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+#dates{
+    color: rgb(90, 173, 22);
+    font-weight: lighter;
+    text-decoration: underline;
+    background-color: thistle;
+}
+#titulo{
+    background-color: coral;
+    writing-mode: vertical-lr;
+} 
+#subjects{
+    color: burlywood;
+    text-decoration: underline;
+}
+#lista{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    quotes: """ """;
+    color: turquoise;
+}
+#exotic{
+    font-size: 30px;
+    color: burlywood;
+    text-decoration: underline;
+}
+#lista2{
+    text-align: center;
+    word-spacing: 20px;
+    background-color: rgb(53, 21, 170);
+    color: wheat;
+}
+.dr{
+    line-height: 80px;
+    font-family: 'Festive', cursive;
+}

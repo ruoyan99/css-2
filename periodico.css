@@ -1,0 +1,61 @@
+#titulo{
+    border: 15px solid red;
+    width: 800px;
+    padding: 50px;
+    margin: 20px;
+    font-size: 50px;
+    font-style: italic;
+    color: chocolate;
+    text-align: center;
+}
+#titulo2{
+    border: 15px solid red;
+    width: 800px;
+    padding: 50px;
+    margin: 20px;
+    font-size: 50px;
+    font-style: italic;
+    color: chocolate;
+    text-align: center;
+}
+#titulo3{
+    border: 15px solid red;
+    width: 800px;
+    padding: 50px;
+    margin: 20px;
+    font-size: 50px;
+    font-style: italic;
+    color: chocolate;
+    text-align: center;
+}
+#titulo4{
+    border: 15px solid red;
+    width: 800px;
+    padding: 50px;
+    margin: 20px;
+    font-size: 50px;
+    font-style: italic;
+    color: chocolate;
+    text-align: center;
+}
+#titulo5{
+    border: 15px solid red;
+    width: 800px;
+    padding: 50px;
+    margin: 20px;
+    font-size: 50px;
+    font-style: italic;
+    color: chocolate;
+    text-align: center;
+}
+p{
+    text-align: center;
+    line-height: 25px;
+    font-family: cursive;
+
+}
+h2{
+    font-family: monospace;
+    color: darkgoldenrod;
+    font-size: 25px;
+}

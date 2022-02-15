@@ -1,0 +1,51 @@
+h3{
+    font-size: 25px;
+}
+.header{
+    margin: 0px;
+    border:  2px solid black;
+    padding: 10px;
+    content: 20px;
+    width: 500px;
+    background-color:blue;
+}
+.hero{
+    margin: 0px;
+    border: 2px solid black;
+    padding: 10px;
+    content: 20px;
+    width: 500px;
+    background-color:red;
+}
+.content{
+    margin: 0px;
+    border:  2px solid black;
+    padding: 10px;
+    content: 20px;
+    width: 500px;
+    background-color:green;
+}
+.sidebar{
+    margin: 0px;
+    border:  2px solid black;
+    padding: 10px;
+    content: 20px;
+    width: 500px;
+    background-color:purple;
+}
+.footer{
+    margin: 0px;
+    border:  2px solid black;
+    padding: 10px;
+    content: 20px;
+    width: 500px;
+    background-color:grey;
+}
+body{
+    background-color: black;
+    color: white;
+    margin: 0px;
+    border: 2px solid black;
+    padding: 10px;
+    content: 20px;
+}
